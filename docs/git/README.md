@@ -4,6 +4,6 @@
 git是一款版本控制软件。例如，我们在编写word文档时，每隔一段时间就会保存一次，防止数据丢失。而git更加高级些，git能将文件还原为上次保存的状态。
 
 #### git下载安装
-官网下载地址为[https://git-scm.com/downloads]，直接安装即可。
+[官网下载地址](https://git-scm.com/downloads)，直接安装即可。
 
 #### git初始化仓库
