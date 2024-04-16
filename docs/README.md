@@ -1,3 +1,3 @@
 # 我的博客开始创作啦! 🚀🚀🚀
 
-### [入坑git](./git/README.md)
+### [git简单入门](./git/README.md)
